@@ -1,0 +1,13 @@
+streamlit
+pdfplumber
+langchain
+faiss-cpu
+sentence-transformers
+langchain-groq
+langchain-tavily
+langchain-huggingface
+langchain
+langchain-community
+gspread
+langchain-experimental
+tiktoken
